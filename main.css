@@ -1,4 +1,8 @@
+@font-face {
+    font-family: "my-font";
+    src: url(./Roboto/Roboto-Regular.ttf);
+  }
 html{
     font-size: 20px;
-    font-family: Roboto;
+    font-family: "my-font";
 }
